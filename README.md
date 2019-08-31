@@ -10,7 +10,7 @@ Some of the notebooks are general purpose with examples to give you a quick-star
 |   |   | | [Problem 5.1](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.1.ipynb) |  |
 |   |   | | [Problem 5.2](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.2.ipynb) |  |
 |   |   | | [Problem 5.3](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.3.ipynb) |  |
-| Chapter 7  | Transfer functions  | [Problem 7.6](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p6.ipynb) |  |
+| Chapter 7  | Transfer functions  |  | [Problem 7.6](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p6.ipynb) |  |
 |   |   | | [Problem 7.7](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p7.ipynb) |  |
 |   |   | | [Problem 7.8](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p8.ipynb) |  |
 | Chapter 9  | State-Space Models|   | [Problem 9.6](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem9p6.ipynb) |  |

@@ -1,4 +1,4 @@
-# SystemsSignalsModels
+# ''Engineering Systems'' --- ''Systems, Signals & Models''
 This Repository contains a collection of Notebooks, that accompany the course on Systems, Signals and Models in the Applied Physics programme (M4 and M5).  
 Some of the notebooks are general purpose with examples to give you a quick-start on the subject, others are worked-out problems from the courses. 
 ## Part 1: Engineering Systems  

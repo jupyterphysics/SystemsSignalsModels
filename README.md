@@ -6,14 +6,15 @@ Some of the notebooks are general purpose with examples to give you a quick-star
 | Subject | Subject | Notebook | Solutions Notebook | Remarks |
 | ---- | ---- | ---- | ---- | ---- |
 | Introduction | various functions| [M4-functions](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/M4Functions.ipynb)  | x | x | 
-| Chapter 5 | Differential Equations| [non-lin example](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Chapter5Example.ipynb) | x | x |
-|   |   | | [Problem 5.1](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.1.ipynb) |  |
-|   |   | | [Problem 5.2](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.2.ipynb) |  |
-|   |   | | [Problem 5.3](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.3.ipynb) |  |
-| Chapter 7  | Transfer functions  |  | [Problem 7.6](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p6.ipynb) |  |
-|   |   | | [Problem 7.7](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p7.ipynb) |  |
-|   |   | | [Problem 7.8](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem7p8.ipynb) |  |
-| Chapter 9  | State-Space Models|   | [Problem 9.6](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Problem9p6.ipynb) |  |
+| Chapter 2 | Differential Equations| [non-lin example](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Chapter5Example.ipynb) | x | x |
+|   |   | | [Problem 2.1](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.1.ipynb) |  |
+|   |   | | [Problem 2.2](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.2.ipynb) |  |
+|   |   | | [Problem 2.3](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Example5.3.ipynb) |  |
+| Chapter 3 | Laplace |  | [PartFracExample 3.10](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/PartFracExample3p10.ipynb) |  | 
+| Chapter 6  | Transfer functions  |  | [Problem 6.6](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/H6p6.ipynb) |  |
+|   |   | | [Problem 6.7](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/H6p7.ipynb) |  |
+|   |   | | [Problem 6.8](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/H6p8.ipynb) |  |
+| Chapter 7  | State-Space Models|   | [Problem 8.8](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/H8p8.ipynb) |  |
 |   |   | | [Test 1.4](https://github.com/jupyterphysics/SystemsSignalsModels/blob/master/Test1p4.ipynb) |  |
 
 ## Part 2: Models  
